@@ -1,0 +1,7 @@
+[submodule "themes/tachyons"]
+	path = themes/tachyons
+	url = https://github.com/marloncabrera/tachyons.git
+[submodule "public"]
+	path = public
+	url = git@github.com:arangrej/arangrej.github.io.git
+	branch = master
